@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://theneworiginals.eu
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Home screen  
   <img src="readme-images/homescreen.PNG" width="375px" alt="home screen">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Shop screen 
   <img src="readme-images/shopscreen.PNG" width="375px" alt="shop screen">
  
 </details>
